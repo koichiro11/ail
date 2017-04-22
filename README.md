@@ -1,6 +1,6 @@
 # lecture
 
-##author
+## author
 
 koichiro tamura
 
@@ -10,7 +10,7 @@ hiromi nakagawa
 
 先端人工知能論
 
-####ada
+#### ada
 
 応用データ解析
 
