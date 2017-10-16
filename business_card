@@ -25,5 +25,4 @@ class ACES(company):
         service_1 = '電子化'
         service_2 = '連続化'
         service_3 = '最適化'
-
         return [service_1, service_2, service_3]
