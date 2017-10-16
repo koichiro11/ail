@@ -1,0 +1,29 @@
+# coding:utf-8
+
+class ACES(company):
+    """Information of company"""
+    def __init__(self):
+        self.name = 'ACES, Inc.'
+        self.url = 'http://acesinc.co.jp/'
+        self.address = '東京都文京区小石川3-26-3'
+
+    def mission(self):
+        return 'Make the World Differentiable'
+
+    def values(self):
+        value_1 = 'Be aces.'
+        value_2 = 'Gain trust.'
+        value_3 = 'Break through.'
+        return [value_1, value_2, value_3]
+
+    def services(self):
+        """
+        Deep Learningをはじめとした
+        アルゴリズムによるソリューションにより，
+        世界を微分可能にする．
+        """
+        service_1 = '電子化'
+        service_2 = '連続化'
+        service_3 = '最適化'
+
+        return [service_1, service_2, service_3]
